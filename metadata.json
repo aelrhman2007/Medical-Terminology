@@ -1,0 +1,5 @@
+{
+  "name": "Dr. Aboudy - Medical Terminology AI",
+  "description": "An advanced medical translator and morphological analyst powered by Gemini. Deconstructs complex medical terms, provides accurate translations, and offers academic explanations.",
+  "requestFramePermissions": []
+}
